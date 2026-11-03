@@ -1,0 +1,5 @@
+2026-10-26 10:00:00 - Event ID: 4624 - Logon Type: 3 - User: SYSTEM
+2026-10-26 10:15:00 - Event ID: 4688 - Process Created - User: john.doe
+2026-10-26 11:30:00 - Event ID: 4720 - A user account was created - New User: hacker_backdoor
+2026-10-26 11:31:00 - Event ID: 4732 - A member was added to a security-enabled local group - Group: Administrators - Target User: hacker_backdoor
+2026-10-26 12:00:00 - Event ID: 4624 - Logon Type: 3 - User: SYSTEM
