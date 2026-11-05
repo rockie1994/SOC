@@ -1,0 +1,5 @@
+2026-10-27 09:00:00 - USB Connected - Device: Logitech Mouse - Serial: M102
+2026-10-27 09:15:00 - USB Connected - Device: Kingston DataTraveler 16GB - Serial: K992 - Status: Authorized
+2026-10-27 11:30:00 - USB Connected - Device: SanDisk Extreme 128GB - Serial: S888 - Status: Unauthorized
+2026-10-27 14:00:00 - USB Connected - Device: Dell Keyboard - Serial: D404
+2026-10-27 02:14:00 - USB Connected - Device: Unknown Storage Device - Serial: UNKNOWN123 - Status: Unauthorized
