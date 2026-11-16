@@ -1,0 +1,4 @@
+2026-10-30 09:00:00 - Process Created - User: john.doe - Path: C:\Program Files\Google\Chrome\chrome.exe
+2026-10-30 09:15:00 - Process Created - User: sarah.smith - Path: C:\Program Files\Microsoft Office\WINWORD.EXE
+2026-10-30 10:30:00 - Process Created - User: hacker_admin - Path: C:\Users\hacker_admin\AppData\Local\Temp\update.exe
+2026-10-30 11:00:00 - Process Created - User: mike.jones - Path: C:\Windows\System32\notepad.exe
