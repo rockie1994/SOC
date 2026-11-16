@@ -1,0 +1,9 @@
+2026-10-31 08:00:01 - Connection - Source IP: 192.168.1.50 - Port: 21
+2026-10-31 08:00:01 - Connection - Source IP: 192.168.1.50 - Port: 22
+2026-10-31 08:00:02 - Connection - Source IP: 192.168.1.50 - Port: 23
+2026-10-31 08:00:02 - Connection - Source IP: 192.168.1.50 - Port: 80
+2026-10-31 08:00:03 - Connection - Source IP: 192.168.1.50 - Port: 443
+2026-10-31 08:00:03 - Connection - Source IP: 192.168.1.50 - Port: 8080
+2026-10-31 08:00:05 - Connection - Source IP: 10.0.0.15 - Port: 443
+2026-10-31 08:00:06 - Connection - Source IP: 10.0.0.15 - Port: 443
+2026-10-31 08:00:10 - Connection - Source IP: 172.16.254.1 - Port: 3389
